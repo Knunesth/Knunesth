@@ -47,18 +47,4 @@
 
 <img align="left" src="https://profile-counter.glitch.me/Knunesth/count.svg?"  />
 
-###
 
-<br clear="both">
-
-<div align="center">
-  <img height="120" src="https://imgflip.com/gif/98hif6"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Knunesth/Knunesth/output/snake.svg" alt="Snake animation" />
-
-###
