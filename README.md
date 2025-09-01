@@ -101,7 +101,7 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=3C3C3C)](mailto:kauathierry86@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=3C3C3C)](https://instagram.com/nunessss61)
-[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=3C3C3C)](https://discord.gg/nunes_th)
+[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=3C3C3C)](https://discord.com/users/nunes_th)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=3C3C3C)](https://www.linkedin.com/in/kau%C3%A3-thierry/)
 
 
