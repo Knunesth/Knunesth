@@ -7,11 +7,7 @@
   </samp>
 </div>
 
-<div align="center">
-  <p align="center">
-    <img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FKnunesth&s=21&c=f1f1f1&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" />
-  </p> 
-</div>
+
 
 <br>
 <br>
@@ -46,18 +42,7 @@
   <br>
 
 <div align="center">
-  <img
-    height=175
-    align="center"
-    alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api/?username=Knunesth&show_icons=true&count_private=true&rank_icon=github&theme=midnight-purple&title_color=3C3C3C&icon_color=3C3C3C"
-  />
-  <img
-    height=175
-    align="center"
-    alt="Top Language"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Knunesth&layout=compact&langs_count=16&theme=midnight-purple&title_color=3C3C3C"
-  />
+
   <br>
   <br>
   <img
