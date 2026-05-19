@@ -4,6 +4,8 @@
   <samp>
       <br>
       Hi there! I'm <b>Kauã Thierry</b>
+      <br>
+      Full-Stack Web Developer
   </samp>
 </div>
 
